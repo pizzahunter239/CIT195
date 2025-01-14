@@ -1,0 +1,15 @@
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\mathMagic.cs\mathMagic.cs\bin\Debug\net8.0\mathMagic.cs.exe
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\mathMagic.cs\mathMagic.cs\bin\Debug\net8.0\mathMagic.cs.deps.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\mathMagic.cs\mathMagic.cs\bin\Debug\net8.0\mathMagic.cs.runtimeconfig.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\mathMagic.cs\mathMagic.cs\bin\Debug\net8.0\mathMagic.cs.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\mathMagic.cs\mathMagic.cs\bin\Debug\net8.0\mathMagic.cs.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\mathMagic.cs\mathMagic.cs\obj\Debug\net8.0\mathMagic.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\mathMagic.cs\mathMagic.cs\obj\Debug\net8.0\mathMagic.cs.AssemblyInfoInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\mathMagic.cs\mathMagic.cs\obj\Debug\net8.0\mathMagic.cs.AssemblyInfo.cs
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\mathMagic.cs\mathMagic.cs\obj\Debug\net8.0\mathMagic.cs.csproj.CoreCompileInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\mathMagic.cs\mathMagic.cs\obj\Debug\net8.0\mathMagic.cs.sourcelink.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\mathMagic.cs\mathMagic.cs\obj\Debug\net8.0\mathMagic.cs.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\mathMagic.cs\mathMagic.cs\obj\Debug\net8.0\refint\mathMagic.cs.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\mathMagic.cs\mathMagic.cs\obj\Debug\net8.0\mathMagic.cs.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\mathMagic.cs\mathMagic.cs\obj\Debug\net8.0\mathMagic.cs.genruntimeconfig.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\mathMagic.cs\mathMagic.cs\obj\Debug\net8.0\ref\mathMagic.cs.dll
