@@ -1,0 +1,15 @@
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\tempConverter\tempConverter\bin\Debug\net8.0\tempConverter.exe
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\tempConverter\tempConverter\bin\Debug\net8.0\tempConverter.deps.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\tempConverter\tempConverter\bin\Debug\net8.0\tempConverter.runtimeconfig.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\tempConverter\tempConverter\bin\Debug\net8.0\tempConverter.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\tempConverter\tempConverter\bin\Debug\net8.0\tempConverter.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\tempConverter\tempConverter\obj\Debug\net8.0\tempConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\tempConverter\tempConverter\obj\Debug\net8.0\tempConverter.AssemblyInfoInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\tempConverter\tempConverter\obj\Debug\net8.0\tempConverter.AssemblyInfo.cs
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\tempConverter\tempConverter\obj\Debug\net8.0\tempConverter.csproj.CoreCompileInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\tempConverter\tempConverter\obj\Debug\net8.0\tempConverter.sourcelink.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\tempConverter\tempConverter\obj\Debug\net8.0\tempConverter.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\tempConverter\tempConverter\obj\Debug\net8.0\refint\tempConverter.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\tempConverter\tempConverter\obj\Debug\net8.0\tempConverter.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\tempConverter\tempConverter\obj\Debug\net8.0\tempConverter.genruntimeconfig.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\tempConverter\tempConverter\obj\Debug\net8.0\ref\tempConverter.dll
