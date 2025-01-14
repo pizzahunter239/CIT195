@@ -1,0 +1,15 @@
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\NoExceptions.cs\NoExceptions.cs\bin\Debug\net8.0\NoExceptions.cs.exe
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\NoExceptions.cs\NoExceptions.cs\bin\Debug\net8.0\NoExceptions.cs.deps.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\NoExceptions.cs\NoExceptions.cs\bin\Debug\net8.0\NoExceptions.cs.runtimeconfig.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\NoExceptions.cs\NoExceptions.cs\bin\Debug\net8.0\NoExceptions.cs.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\NoExceptions.cs\NoExceptions.cs\bin\Debug\net8.0\NoExceptions.cs.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\NoExceptions.cs\NoExceptions.cs\obj\Debug\net8.0\NoExceptions.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\NoExceptions.cs\NoExceptions.cs\obj\Debug\net8.0\NoExceptions.cs.AssemblyInfoInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\NoExceptions.cs\NoExceptions.cs\obj\Debug\net8.0\NoExceptions.cs.AssemblyInfo.cs
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\NoExceptions.cs\NoExceptions.cs\obj\Debug\net8.0\NoExceptions.cs.csproj.CoreCompileInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\NoExceptions.cs\NoExceptions.cs\obj\Debug\net8.0\NoExceptions.cs.sourcelink.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\NoExceptions.cs\NoExceptions.cs\obj\Debug\net8.0\NoExceptions.cs.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\NoExceptions.cs\NoExceptions.cs\obj\Debug\net8.0\refint\NoExceptions.cs.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\NoExceptions.cs\NoExceptions.cs\obj\Debug\net8.0\NoExceptions.cs.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\NoExceptions.cs\NoExceptions.cs\obj\Debug\net8.0\NoExceptions.cs.genruntimeconfig.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson 1\NoExceptions.cs\NoExceptions.cs\obj\Debug\net8.0\ref\NoExceptions.cs.dll
