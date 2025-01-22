@@ -60,14 +60,14 @@ namespace myProject
             Workout morningYoga = new Workout();
             morningYoga.SetDuration(30);
             morningYoga.SetExerciseType("Yoga");
-            morningYoga.SetCaloriesBurned(150);
+            morningYoga.SetCaloriesBurned(150.5);
 
             Workout eveningRun = new Workout();
             eveningRun.SetDuration(45);
             eveningRun.SetExerciseType("Running");
             eveningRun.SetCaloriesBurned(400.0);
 
-            Workout weightTraining = new Workout(60, "Weight Training", 300.0);
+            Workout weightTraining = new Workout(60, "Weight Training", 300.2);
             Workout swimming = new Workout(40, "Swimming", 350.0);
 
             Console.WriteLine("Daily Workout Summary");
