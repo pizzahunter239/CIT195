@@ -1,0 +1,15 @@
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson2\bookStoreWithCount\bookStoreWithCount\bin\Debug\net8.0\bookStoreWithCount.exe
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson2\bookStoreWithCount\bookStoreWithCount\bin\Debug\net8.0\bookStoreWithCount.deps.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson2\bookStoreWithCount\bookStoreWithCount\bin\Debug\net8.0\bookStoreWithCount.runtimeconfig.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson2\bookStoreWithCount\bookStoreWithCount\bin\Debug\net8.0\bookStoreWithCount.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson2\bookStoreWithCount\bookStoreWithCount\bin\Debug\net8.0\bookStoreWithCount.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson2\bookStoreWithCount\bookStoreWithCount\obj\Debug\net8.0\bookStoreWithCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson2\bookStoreWithCount\bookStoreWithCount\obj\Debug\net8.0\bookStoreWithCount.AssemblyInfoInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson2\bookStoreWithCount\bookStoreWithCount\obj\Debug\net8.0\bookStoreWithCount.AssemblyInfo.cs
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson2\bookStoreWithCount\bookStoreWithCount\obj\Debug\net8.0\bookStoreWithCount.csproj.CoreCompileInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson2\bookStoreWithCount\bookStoreWithCount\obj\Debug\net8.0\bookStoreWithCount.sourcelink.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson2\bookStoreWithCount\bookStoreWithCount\obj\Debug\net8.0\bookStoreWithCount.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson2\bookStoreWithCount\bookStoreWithCount\obj\Debug\net8.0\refint\bookStoreWithCount.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson2\bookStoreWithCount\bookStoreWithCount\obj\Debug\net8.0\bookStoreWithCount.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson2\bookStoreWithCount\bookStoreWithCount\obj\Debug\net8.0\bookStoreWithCount.genruntimeconfig.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson2\bookStoreWithCount\bookStoreWithCount\obj\Debug\net8.0\ref\bookStoreWithCount.dll

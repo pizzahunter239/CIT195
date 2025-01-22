@@ -1,0 +1,15 @@
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson2\bookStore\bookStore\bin\Debug\net8.0\bookStore.exe
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson2\bookStore\bookStore\bin\Debug\net8.0\bookStore.deps.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson2\bookStore\bookStore\bin\Debug\net8.0\bookStore.runtimeconfig.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson2\bookStore\bookStore\bin\Debug\net8.0\bookStore.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson2\bookStore\bookStore\bin\Debug\net8.0\bookStore.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson2\bookStore\bookStore\obj\Debug\net8.0\bookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson2\bookStore\bookStore\obj\Debug\net8.0\bookStore.AssemblyInfoInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson2\bookStore\bookStore\obj\Debug\net8.0\bookStore.AssemblyInfo.cs
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson2\bookStore\bookStore\obj\Debug\net8.0\bookStore.csproj.CoreCompileInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson2\bookStore\bookStore\obj\Debug\net8.0\bookStore.sourcelink.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson2\bookStore\bookStore\obj\Debug\net8.0\bookStore.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson2\bookStore\bookStore\obj\Debug\net8.0\refint\bookStore.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson2\bookStore\bookStore\obj\Debug\net8.0\bookStore.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson2\bookStore\bookStore\obj\Debug\net8.0\bookStore.genruntimeconfig.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson2\bookStore\bookStore\obj\Debug\net8.0\ref\bookStore.dll
