@@ -1,0 +1,15 @@
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson3\myParams\myParams\bin\Debug\net8.0\myParams.exe
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson3\myParams\myParams\bin\Debug\net8.0\myParams.deps.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson3\myParams\myParams\bin\Debug\net8.0\myParams.runtimeconfig.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson3\myParams\myParams\bin\Debug\net8.0\myParams.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson3\myParams\myParams\bin\Debug\net8.0\myParams.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson3\myParams\myParams\obj\Debug\net8.0\myParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson3\myParams\myParams\obj\Debug\net8.0\myParams.AssemblyInfoInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson3\myParams\myParams\obj\Debug\net8.0\myParams.AssemblyInfo.cs
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson3\myParams\myParams\obj\Debug\net8.0\myParams.csproj.CoreCompileInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson3\myParams\myParams\obj\Debug\net8.0\myParams.sourcelink.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson3\myParams\myParams\obj\Debug\net8.0\myParams.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson3\myParams\myParams\obj\Debug\net8.0\refint\myParams.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson3\myParams\myParams\obj\Debug\net8.0\myParams.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson3\myParams\myParams\obj\Debug\net8.0\myParams.genruntimeconfig.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson3\myParams\myParams\obj\Debug\net8.0\ref\myParams.dll

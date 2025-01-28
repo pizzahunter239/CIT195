@@ -1,0 +1,15 @@
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson3\FunWithMusic\FunWithMusic\obj\Debug\net8.0\FunWithMusic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson3\FunWithMusic\FunWithMusic\obj\Debug\net8.0\FunWithMusic.AssemblyInfoInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson3\FunWithMusic\FunWithMusic\obj\Debug\net8.0\FunWithMusic.AssemblyInfo.cs
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson3\FunWithMusic\FunWithMusic\obj\Debug\net8.0\FunWithMusic.csproj.CoreCompileInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson3\FunWithMusic\FunWithMusic\obj\Debug\net8.0\FunWithMusic.sourcelink.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson3\FunWithMusic\FunWithMusic\bin\Debug\net8.0\FunWithMusic.exe
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson3\FunWithMusic\FunWithMusic\bin\Debug\net8.0\FunWithMusic.deps.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson3\FunWithMusic\FunWithMusic\bin\Debug\net8.0\FunWithMusic.runtimeconfig.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson3\FunWithMusic\FunWithMusic\bin\Debug\net8.0\FunWithMusic.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson3\FunWithMusic\FunWithMusic\bin\Debug\net8.0\FunWithMusic.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson3\FunWithMusic\FunWithMusic\obj\Debug\net8.0\FunWithMusic.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson3\FunWithMusic\FunWithMusic\obj\Debug\net8.0\refint\FunWithMusic.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson3\FunWithMusic\FunWithMusic\obj\Debug\net8.0\FunWithMusic.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson3\FunWithMusic\FunWithMusic\obj\Debug\net8.0\FunWithMusic.genruntimeconfig.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson3\FunWithMusic\FunWithMusic\obj\Debug\net8.0\ref\FunWithMusic.dll

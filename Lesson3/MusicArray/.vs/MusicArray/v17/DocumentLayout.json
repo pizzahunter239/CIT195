@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson3\\MusicArray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD6ADCD-90E1-4162-BC7B-1730024A8D19}|MusicArray\\MusicArray.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson3\\musicarray\\musicarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD6ADCD-90E1-4162-BC7B-1730024A8D19}|MusicArray\\MusicArray.csproj|solutionrelative:musicarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson3\\MusicArray\\MusicArray\\Program.cs",
+              "RelativeDocumentMoniker": "MusicArray\\Program.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson3\\MusicArray\\MusicArray\\Program.cs",
+              "RelativeToolTip": "MusicArray\\Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAYwGwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T23:39:51.583Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
