@@ -1,0 +1,15 @@
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\ProtectedMultipleObjects\ProtectedMultipleObjects\bin\Debug\net8.0\ProtectedMultipleObjects.exe
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\ProtectedMultipleObjects\ProtectedMultipleObjects\bin\Debug\net8.0\ProtectedMultipleObjects.deps.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\ProtectedMultipleObjects\ProtectedMultipleObjects\bin\Debug\net8.0\ProtectedMultipleObjects.runtimeconfig.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\ProtectedMultipleObjects\ProtectedMultipleObjects\bin\Debug\net8.0\ProtectedMultipleObjects.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\ProtectedMultipleObjects\ProtectedMultipleObjects\bin\Debug\net8.0\ProtectedMultipleObjects.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\ProtectedMultipleObjects\ProtectedMultipleObjects\obj\Debug\net8.0\ProtectedMultipleObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\ProtectedMultipleObjects\ProtectedMultipleObjects\obj\Debug\net8.0\ProtectedMultipleObjects.AssemblyInfoInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\ProtectedMultipleObjects\ProtectedMultipleObjects\obj\Debug\net8.0\ProtectedMultipleObjects.AssemblyInfo.cs
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\ProtectedMultipleObjects\ProtectedMultipleObjects\obj\Debug\net8.0\ProtectedMultipleObjects.csproj.CoreCompileInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\ProtectedMultipleObjects\ProtectedMultipleObjects\obj\Debug\net8.0\ProtectedMultipleObjects.sourcelink.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\ProtectedMultipleObjects\ProtectedMultipleObjects\obj\Debug\net8.0\ProtectedMultipleObjects.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\ProtectedMultipleObjects\ProtectedMultipleObjects\obj\Debug\net8.0\refint\ProtectedMultipleObjects.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\ProtectedMultipleObjects\ProtectedMultipleObjects\obj\Debug\net8.0\ProtectedMultipleObjects.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\ProtectedMultipleObjects\ProtectedMultipleObjects\obj\Debug\net8.0\ProtectedMultipleObjects.genruntimeconfig.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\ProtectedMultipleObjects\ProtectedMultipleObjects\obj\Debug\net8.0\ref\ProtectedMultipleObjects.dll

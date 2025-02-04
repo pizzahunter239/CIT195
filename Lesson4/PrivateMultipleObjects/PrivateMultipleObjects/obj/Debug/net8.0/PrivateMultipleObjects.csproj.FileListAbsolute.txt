@@ -1,0 +1,15 @@
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\PrivateMultipleObjects\PrivateMultipleObjects\bin\Debug\net8.0\PrivateMultipleObjects.exe
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\PrivateMultipleObjects\PrivateMultipleObjects\bin\Debug\net8.0\PrivateMultipleObjects.deps.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\PrivateMultipleObjects\PrivateMultipleObjects\bin\Debug\net8.0\PrivateMultipleObjects.runtimeconfig.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\PrivateMultipleObjects\PrivateMultipleObjects\bin\Debug\net8.0\PrivateMultipleObjects.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\PrivateMultipleObjects\PrivateMultipleObjects\bin\Debug\net8.0\PrivateMultipleObjects.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net8.0\PrivateMultipleObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net8.0\PrivateMultipleObjects.AssemblyInfoInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net8.0\PrivateMultipleObjects.AssemblyInfo.cs
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net8.0\PrivateMultipleObjects.csproj.CoreCompileInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net8.0\PrivateMultipleObjects.sourcelink.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net8.0\PrivateMultipleObjects.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net8.0\refint\PrivateMultipleObjects.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net8.0\PrivateMultipleObjects.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net8.0\PrivateMultipleObjects.genruntimeconfig.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net8.0\ref\PrivateMultipleObjects.dll

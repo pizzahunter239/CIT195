@@ -1,0 +1,15 @@
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\SimpleInheritance\SimpleInheritance\bin\Debug\net8.0\SimpleInheritance.exe
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\SimpleInheritance\SimpleInheritance\bin\Debug\net8.0\SimpleInheritance.deps.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\SimpleInheritance\SimpleInheritance\bin\Debug\net8.0\SimpleInheritance.runtimeconfig.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\SimpleInheritance\SimpleInheritance\bin\Debug\net8.0\SimpleInheritance.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\SimpleInheritance\SimpleInheritance\bin\Debug\net8.0\SimpleInheritance.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\SimpleInheritance\SimpleInheritance\obj\Debug\net8.0\SimpleInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\SimpleInheritance\SimpleInheritance\obj\Debug\net8.0\SimpleInheritance.AssemblyInfoInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\SimpleInheritance\SimpleInheritance\obj\Debug\net8.0\SimpleInheritance.AssemblyInfo.cs
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\SimpleInheritance\SimpleInheritance\obj\Debug\net8.0\SimpleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\SimpleInheritance\SimpleInheritance\obj\Debug\net8.0\SimpleInheritance.sourcelink.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\SimpleInheritance\SimpleInheritance\obj\Debug\net8.0\SimpleInheritance.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\SimpleInheritance\SimpleInheritance\obj\Debug\net8.0\refint\SimpleInheritance.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\SimpleInheritance\SimpleInheritance\obj\Debug\net8.0\SimpleInheritance.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\SimpleInheritance\SimpleInheritance\obj\Debug\net8.0\SimpleInheritance.genruntimeconfig.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\SimpleInheritance\SimpleInheritance\obj\Debug\net8.0\ref\SimpleInheritance.dll

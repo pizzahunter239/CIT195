@@ -1,0 +1,15 @@
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\AnimalInheritance\AnimalInheritance\bin\Debug\net8.0\AnimalInheritance.exe
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\AnimalInheritance\AnimalInheritance\bin\Debug\net8.0\AnimalInheritance.deps.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\AnimalInheritance\AnimalInheritance\bin\Debug\net8.0\AnimalInheritance.runtimeconfig.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\AnimalInheritance\AnimalInheritance\bin\Debug\net8.0\AnimalInheritance.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\AnimalInheritance\AnimalInheritance\bin\Debug\net8.0\AnimalInheritance.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\AnimalInheritance\AnimalInheritance\obj\Debug\net8.0\AnimalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\AnimalInheritance\AnimalInheritance\obj\Debug\net8.0\AnimalInheritance.AssemblyInfoInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\AnimalInheritance\AnimalInheritance\obj\Debug\net8.0\AnimalInheritance.AssemblyInfo.cs
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\AnimalInheritance\AnimalInheritance\obj\Debug\net8.0\AnimalInheritance.csproj.CoreCompileInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\AnimalInheritance\AnimalInheritance\obj\Debug\net8.0\AnimalInheritance.sourcelink.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\AnimalInheritance\AnimalInheritance\obj\Debug\net8.0\AnimalInheritance.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\AnimalInheritance\AnimalInheritance\obj\Debug\net8.0\refint\AnimalInheritance.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\AnimalInheritance\AnimalInheritance\obj\Debug\net8.0\AnimalInheritance.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\AnimalInheritance\AnimalInheritance\obj\Debug\net8.0\AnimalInheritance.genruntimeconfig.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson4\AnimalInheritance\AnimalInheritance\obj\Debug\net8.0\ref\AnimalInheritance.dll
