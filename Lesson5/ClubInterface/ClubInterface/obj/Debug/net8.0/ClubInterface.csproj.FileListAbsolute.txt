@@ -1,0 +1,15 @@
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\ClubInterface\ClubInterface\bin\Debug\net8.0\ClubInterface.exe
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\ClubInterface\ClubInterface\bin\Debug\net8.0\ClubInterface.deps.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\ClubInterface\ClubInterface\bin\Debug\net8.0\ClubInterface.runtimeconfig.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\ClubInterface\ClubInterface\bin\Debug\net8.0\ClubInterface.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\ClubInterface\ClubInterface\bin\Debug\net8.0\ClubInterface.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\ClubInterface\ClubInterface\obj\Debug\net8.0\ClubInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\ClubInterface\ClubInterface\obj\Debug\net8.0\ClubInterface.AssemblyInfoInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\ClubInterface\ClubInterface\obj\Debug\net8.0\ClubInterface.AssemblyInfo.cs
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\ClubInterface\ClubInterface\obj\Debug\net8.0\ClubInterface.csproj.CoreCompileInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\ClubInterface\ClubInterface\obj\Debug\net8.0\ClubInterface.sourcelink.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\ClubInterface\ClubInterface\obj\Debug\net8.0\ClubInterface.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\ClubInterface\ClubInterface\obj\Debug\net8.0\refint\ClubInterface.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\ClubInterface\ClubInterface\obj\Debug\net8.0\ClubInterface.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\ClubInterface\ClubInterface\obj\Debug\net8.0\ClubInterface.genruntimeconfig.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\ClubInterface\ClubInterface\obj\Debug\net8.0\ref\ClubInterface.dll

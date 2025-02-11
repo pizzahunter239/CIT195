@@ -1,0 +1,15 @@
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\LibraryManagement\LibraryManagement\bin\Debug\net8.0\LibraryManagement.exe
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\LibraryManagement\LibraryManagement\bin\Debug\net8.0\LibraryManagement.deps.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\LibraryManagement\LibraryManagement\bin\Debug\net8.0\LibraryManagement.runtimeconfig.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\LibraryManagement\LibraryManagement\bin\Debug\net8.0\LibraryManagement.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\LibraryManagement\LibraryManagement\bin\Debug\net8.0\LibraryManagement.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\LibraryManagement\LibraryManagement\obj\Debug\net8.0\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\LibraryManagement\LibraryManagement\obj\Debug\net8.0\LibraryManagement.AssemblyInfoInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\LibraryManagement\LibraryManagement\obj\Debug\net8.0\LibraryManagement.AssemblyInfo.cs
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\LibraryManagement\LibraryManagement\obj\Debug\net8.0\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\LibraryManagement\LibraryManagement\obj\Debug\net8.0\LibraryManagement.sourcelink.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\LibraryManagement\LibraryManagement\obj\Debug\net8.0\LibraryManagement.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\LibraryManagement\LibraryManagement\obj\Debug\net8.0\refint\LibraryManagement.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\LibraryManagement\LibraryManagement\obj\Debug\net8.0\LibraryManagement.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\LibraryManagement\LibraryManagement\obj\Debug\net8.0\LibraryManagement.genruntimeconfig.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\LibraryManagement\LibraryManagement\obj\Debug\net8.0\ref\LibraryManagement.dll

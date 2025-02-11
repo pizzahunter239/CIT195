@@ -1,0 +1,15 @@
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\AbstractAnimalClass\AbstractAnimalClass\bin\Debug\net8.0\AbstractAnimalClass.exe
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\AbstractAnimalClass\AbstractAnimalClass\bin\Debug\net8.0\AbstractAnimalClass.deps.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\AbstractAnimalClass\AbstractAnimalClass\bin\Debug\net8.0\AbstractAnimalClass.runtimeconfig.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\AbstractAnimalClass\AbstractAnimalClass\bin\Debug\net8.0\AbstractAnimalClass.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\AbstractAnimalClass\AbstractAnimalClass\bin\Debug\net8.0\AbstractAnimalClass.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\AbstractAnimalClass\AbstractAnimalClass\obj\Debug\net8.0\AbstractAnimalClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\AbstractAnimalClass\AbstractAnimalClass\obj\Debug\net8.0\AbstractAnimalClass.AssemblyInfoInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\AbstractAnimalClass\AbstractAnimalClass\obj\Debug\net8.0\AbstractAnimalClass.AssemblyInfo.cs
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\AbstractAnimalClass\AbstractAnimalClass\obj\Debug\net8.0\AbstractAnimalClass.csproj.CoreCompileInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\AbstractAnimalClass\AbstractAnimalClass\obj\Debug\net8.0\AbstractAnimalClass.sourcelink.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\AbstractAnimalClass\AbstractAnimalClass\obj\Debug\net8.0\AbstractAnimalClass.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\AbstractAnimalClass\AbstractAnimalClass\obj\Debug\net8.0\refint\AbstractAnimalClass.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\AbstractAnimalClass\AbstractAnimalClass\obj\Debug\net8.0\AbstractAnimalClass.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\AbstractAnimalClass\AbstractAnimalClass\obj\Debug\net8.0\AbstractAnimalClass.genruntimeconfig.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\AbstractAnimalClass\AbstractAnimalClass\obj\Debug\net8.0\ref\AbstractAnimalClass.dll

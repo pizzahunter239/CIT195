@@ -1,0 +1,15 @@
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\SealedClass\SealedClass\bin\Debug\net8.0\SealedClass.exe
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\SealedClass\SealedClass\bin\Debug\net8.0\SealedClass.deps.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\SealedClass\SealedClass\bin\Debug\net8.0\SealedClass.runtimeconfig.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\SealedClass\SealedClass\bin\Debug\net8.0\SealedClass.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\SealedClass\SealedClass\bin\Debug\net8.0\SealedClass.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\SealedClass\SealedClass\obj\Debug\net8.0\SealedClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\SealedClass\SealedClass\obj\Debug\net8.0\SealedClass.AssemblyInfoInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\SealedClass\SealedClass\obj\Debug\net8.0\SealedClass.AssemblyInfo.cs
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\SealedClass\SealedClass\obj\Debug\net8.0\SealedClass.csproj.CoreCompileInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\SealedClass\SealedClass\obj\Debug\net8.0\SealedClass.sourcelink.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\SealedClass\SealedClass\obj\Debug\net8.0\SealedClass.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\SealedClass\SealedClass\obj\Debug\net8.0\refint\SealedClass.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\SealedClass\SealedClass\obj\Debug\net8.0\SealedClass.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\SealedClass\SealedClass\obj\Debug\net8.0\SealedClass.genruntimeconfig.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson5\SealedClass\SealedClass\obj\Debug\net8.0\ref\SealedClass.dll
