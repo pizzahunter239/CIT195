@@ -1,0 +1,15 @@
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\GenericAnimalClass\GenericAnimalClass\bin\Debug\net8.0\GenericAnimalClass.exe
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\GenericAnimalClass\GenericAnimalClass\bin\Debug\net8.0\GenericAnimalClass.deps.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\GenericAnimalClass\GenericAnimalClass\bin\Debug\net8.0\GenericAnimalClass.runtimeconfig.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\GenericAnimalClass\GenericAnimalClass\bin\Debug\net8.0\GenericAnimalClass.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\GenericAnimalClass\GenericAnimalClass\bin\Debug\net8.0\GenericAnimalClass.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\GenericAnimalClass\GenericAnimalClass\obj\Debug\net8.0\GenericAnimalClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\GenericAnimalClass\GenericAnimalClass\obj\Debug\net8.0\GenericAnimalClass.AssemblyInfoInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\GenericAnimalClass\GenericAnimalClass\obj\Debug\net8.0\GenericAnimalClass.AssemblyInfo.cs
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\GenericAnimalClass\GenericAnimalClass\obj\Debug\net8.0\GenericAnimalClass.csproj.CoreCompileInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\GenericAnimalClass\GenericAnimalClass\obj\Debug\net8.0\GenericAnimalClass.sourcelink.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\GenericAnimalClass\GenericAnimalClass\obj\Debug\net8.0\GenericAnimalClass.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\GenericAnimalClass\GenericAnimalClass\obj\Debug\net8.0\refint\GenericAnimalClass.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\GenericAnimalClass\GenericAnimalClass\obj\Debug\net8.0\GenericAnimalClass.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\GenericAnimalClass\GenericAnimalClass\obj\Debug\net8.0\GenericAnimalClass.genruntimeconfig.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\GenericAnimalClass\GenericAnimalClass\obj\Debug\net8.0\ref\GenericAnimalClass.dll

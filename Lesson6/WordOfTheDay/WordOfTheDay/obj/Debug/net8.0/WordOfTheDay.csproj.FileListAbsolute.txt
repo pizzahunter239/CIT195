@@ -1,0 +1,15 @@
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\WordOfTheDay\WordOfTheDay\bin\Debug\net8.0\WordOfTheDay.exe
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\WordOfTheDay\WordOfTheDay\bin\Debug\net8.0\WordOfTheDay.deps.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\WordOfTheDay\WordOfTheDay\bin\Debug\net8.0\WordOfTheDay.runtimeconfig.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\WordOfTheDay\WordOfTheDay\bin\Debug\net8.0\WordOfTheDay.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\WordOfTheDay\WordOfTheDay\bin\Debug\net8.0\WordOfTheDay.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\WordOfTheDay\WordOfTheDay\obj\Debug\net8.0\WordOfTheDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\WordOfTheDay\WordOfTheDay\obj\Debug\net8.0\WordOfTheDay.AssemblyInfoInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\WordOfTheDay\WordOfTheDay\obj\Debug\net8.0\WordOfTheDay.AssemblyInfo.cs
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\WordOfTheDay\WordOfTheDay\obj\Debug\net8.0\WordOfTheDay.csproj.CoreCompileInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\WordOfTheDay\WordOfTheDay\obj\Debug\net8.0\WordOfTheDay.sourcelink.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\WordOfTheDay\WordOfTheDay\obj\Debug\net8.0\WordOfTheDay.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\WordOfTheDay\WordOfTheDay\obj\Debug\net8.0\refint\WordOfTheDay.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\WordOfTheDay\WordOfTheDay\obj\Debug\net8.0\WordOfTheDay.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\WordOfTheDay\WordOfTheDay\obj\Debug\net8.0\WordOfTheDay.genruntimeconfig.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\WordOfTheDay\WordOfTheDay\obj\Debug\net8.0\ref\WordOfTheDay.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson6\\clubMemberIndexer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E041214-9A89-4206-AB4C-506BD1BA66BE}|clubMemberIndexer\\clubMemberIndexer.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson6\\clubmemberindexer\\clubmemberindexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E041214-9A89-4206-AB4C-506BD1BA66BE}|clubMemberIndexer\\clubMemberIndexer.csproj|solutionrelative:clubmemberindexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson6\\clubMemberIndexer\\clubMemberIndexer\\Program.cs",
+              "RelativeDocumentMoniker": "clubMemberIndexer\\Program.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson6\\clubMemberIndexer\\clubMemberIndexer\\Program.cs",
+              "RelativeToolTip": "clubMemberIndexer\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T21:17:47.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

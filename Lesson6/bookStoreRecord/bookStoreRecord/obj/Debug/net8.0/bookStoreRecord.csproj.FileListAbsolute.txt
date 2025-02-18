@@ -1,0 +1,15 @@
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\bookStoreRecord\bookStoreRecord\bin\Debug\net8.0\bookStoreRecord.exe
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\bookStoreRecord\bookStoreRecord\bin\Debug\net8.0\bookStoreRecord.deps.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\bookStoreRecord\bookStoreRecord\bin\Debug\net8.0\bookStoreRecord.runtimeconfig.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\bookStoreRecord\bookStoreRecord\bin\Debug\net8.0\bookStoreRecord.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\bookStoreRecord\bookStoreRecord\bin\Debug\net8.0\bookStoreRecord.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\bookStoreRecord\bookStoreRecord\obj\Debug\net8.0\bookStoreRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\bookStoreRecord\bookStoreRecord\obj\Debug\net8.0\bookStoreRecord.AssemblyInfoInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\bookStoreRecord\bookStoreRecord\obj\Debug\net8.0\bookStoreRecord.AssemblyInfo.cs
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\bookStoreRecord\bookStoreRecord\obj\Debug\net8.0\bookStoreRecord.csproj.CoreCompileInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\bookStoreRecord\bookStoreRecord\obj\Debug\net8.0\bookStoreRecord.sourcelink.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\bookStoreRecord\bookStoreRecord\obj\Debug\net8.0\bookStoreRecord.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\bookStoreRecord\bookStoreRecord\obj\Debug\net8.0\refint\bookStoreRecord.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\bookStoreRecord\bookStoreRecord\obj\Debug\net8.0\bookStoreRecord.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\bookStoreRecord\bookStoreRecord\obj\Debug\net8.0\bookStoreRecord.genruntimeconfig.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\bookStoreRecord\bookStoreRecord\obj\Debug\net8.0\ref\bookStoreRecord.dll

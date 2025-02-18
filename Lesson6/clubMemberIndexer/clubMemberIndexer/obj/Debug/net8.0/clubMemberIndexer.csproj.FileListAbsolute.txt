@@ -1,0 +1,15 @@
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\clubMemberIndexer\clubMemberIndexer\bin\Debug\net8.0\clubMemberIndexer.exe
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\clubMemberIndexer\clubMemberIndexer\bin\Debug\net8.0\clubMemberIndexer.deps.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\clubMemberIndexer\clubMemberIndexer\bin\Debug\net8.0\clubMemberIndexer.runtimeconfig.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\clubMemberIndexer\clubMemberIndexer\bin\Debug\net8.0\clubMemberIndexer.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\clubMemberIndexer\clubMemberIndexer\bin\Debug\net8.0\clubMemberIndexer.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\clubMemberIndexer\clubMemberIndexer\obj\Debug\net8.0\clubMemberIndexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\clubMemberIndexer\clubMemberIndexer\obj\Debug\net8.0\clubMemberIndexer.AssemblyInfoInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\clubMemberIndexer\clubMemberIndexer\obj\Debug\net8.0\clubMemberIndexer.AssemblyInfo.cs
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\clubMemberIndexer\clubMemberIndexer\obj\Debug\net8.0\clubMemberIndexer.csproj.CoreCompileInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\clubMemberIndexer\clubMemberIndexer\obj\Debug\net8.0\clubMemberIndexer.sourcelink.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\clubMemberIndexer\clubMemberIndexer\obj\Debug\net8.0\clubMemberIndexer.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\clubMemberIndexer\clubMemberIndexer\obj\Debug\net8.0\refint\clubMemberIndexer.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\clubMemberIndexer\clubMemberIndexer\obj\Debug\net8.0\clubMemberIndexer.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\clubMemberIndexer\clubMemberIndexer\obj\Debug\net8.0\clubMemberIndexer.genruntimeconfig.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson6\clubMemberIndexer\clubMemberIndexer\obj\Debug\net8.0\ref\clubMemberIndexer.dll

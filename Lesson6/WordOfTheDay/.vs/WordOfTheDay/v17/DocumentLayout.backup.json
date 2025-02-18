@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson6\\WordOfTheDay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9033ED09-A07B-43AB-8C16-66C2010DEDAF}|WordOfTheDay\\WordOfTheDay.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson6\\wordoftheday\\wordoftheday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9033ED09-A07B-43AB-8C16-66C2010DEDAF}|WordOfTheDay\\WordOfTheDay.csproj|solutionrelative:wordoftheday\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson6\\WordOfTheDay\\WordOfTheDay\\Program.cs",
+              "RelativeDocumentMoniker": "WordOfTheDay\\Program.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson6\\WordOfTheDay\\WordOfTheDay\\Program.cs",
+              "RelativeToolTip": "WordOfTheDay\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T22:33:21.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
