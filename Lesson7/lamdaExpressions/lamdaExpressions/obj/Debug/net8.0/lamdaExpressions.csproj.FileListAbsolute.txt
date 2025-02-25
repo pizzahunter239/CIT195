@@ -1,0 +1,15 @@
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\lamdaExpressions\lamdaExpressions\bin\Debug\net8.0\lamdaExpressions.exe
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\lamdaExpressions\lamdaExpressions\bin\Debug\net8.0\lamdaExpressions.deps.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\lamdaExpressions\lamdaExpressions\bin\Debug\net8.0\lamdaExpressions.runtimeconfig.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\lamdaExpressions\lamdaExpressions\bin\Debug\net8.0\lamdaExpressions.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\lamdaExpressions\lamdaExpressions\bin\Debug\net8.0\lamdaExpressions.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\lamdaExpressions\lamdaExpressions\obj\Debug\net8.0\lamdaExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\lamdaExpressions\lamdaExpressions\obj\Debug\net8.0\lamdaExpressions.AssemblyInfoInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\lamdaExpressions\lamdaExpressions\obj\Debug\net8.0\lamdaExpressions.AssemblyInfo.cs
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\lamdaExpressions\lamdaExpressions\obj\Debug\net8.0\lamdaExpressions.csproj.CoreCompileInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\lamdaExpressions\lamdaExpressions\obj\Debug\net8.0\lamdaExpressions.sourcelink.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\lamdaExpressions\lamdaExpressions\obj\Debug\net8.0\lamdaExpressions.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\lamdaExpressions\lamdaExpressions\obj\Debug\net8.0\refint\lamdaExpressions.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\lamdaExpressions\lamdaExpressions\obj\Debug\net8.0\lamdaExpressions.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\lamdaExpressions\lamdaExpressions\obj\Debug\net8.0\lamdaExpressions.genruntimeconfig.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\lamdaExpressions\lamdaExpressions\obj\Debug\net8.0\ref\lamdaExpressions.dll

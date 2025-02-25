@@ -1,0 +1,15 @@
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\bookCollections\bookCollections\bin\Debug\net8.0\bookCollections.exe
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\bookCollections\bookCollections\bin\Debug\net8.0\bookCollections.deps.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\bookCollections\bookCollections\bin\Debug\net8.0\bookCollections.runtimeconfig.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\bookCollections\bookCollections\bin\Debug\net8.0\bookCollections.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\bookCollections\bookCollections\bin\Debug\net8.0\bookCollections.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\bookCollections\bookCollections\obj\Debug\net8.0\bookCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\bookCollections\bookCollections\obj\Debug\net8.0\bookCollections.AssemblyInfoInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\bookCollections\bookCollections\obj\Debug\net8.0\bookCollections.AssemblyInfo.cs
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\bookCollections\bookCollections\obj\Debug\net8.0\bookCollections.csproj.CoreCompileInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\bookCollections\bookCollections\obj\Debug\net8.0\bookCollections.sourcelink.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\bookCollections\bookCollections\obj\Debug\net8.0\bookCollections.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\bookCollections\bookCollections\obj\Debug\net8.0\refint\bookCollections.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\bookCollections\bookCollections\obj\Debug\net8.0\bookCollections.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\bookCollections\bookCollections\obj\Debug\net8.0\bookCollections.genruntimeconfig.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\bookCollections\bookCollections\obj\Debug\net8.0\ref\bookCollections.dll

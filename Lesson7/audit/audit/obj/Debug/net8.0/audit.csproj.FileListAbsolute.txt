@@ -1,0 +1,15 @@
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\audit\audit\bin\Debug\net8.0\audit.exe
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\audit\audit\bin\Debug\net8.0\audit.deps.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\audit\audit\bin\Debug\net8.0\audit.runtimeconfig.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\audit\audit\bin\Debug\net8.0\audit.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\audit\audit\bin\Debug\net8.0\audit.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\audit\audit\obj\Debug\net8.0\audit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\audit\audit\obj\Debug\net8.0\audit.AssemblyInfoInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\audit\audit\obj\Debug\net8.0\audit.AssemblyInfo.cs
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\audit\audit\obj\Debug\net8.0\audit.csproj.CoreCompileInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\audit\audit\obj\Debug\net8.0\audit.sourcelink.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\audit\audit\obj\Debug\net8.0\audit.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\audit\audit\obj\Debug\net8.0\refint\audit.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\audit\audit\obj\Debug\net8.0\audit.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\audit\audit\obj\Debug\net8.0\audit.genruntimeconfig.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson7\audit\audit\obj\Debug\net8.0\ref\audit.dll
