@@ -1,0 +1,15 @@
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\multicastDelegates\multicastDelegates\bin\Debug\net8.0\multicastDelegates.exe
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\multicastDelegates\multicastDelegates\bin\Debug\net8.0\multicastDelegates.deps.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\multicastDelegates\multicastDelegates\bin\Debug\net8.0\multicastDelegates.runtimeconfig.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\multicastDelegates\multicastDelegates\bin\Debug\net8.0\multicastDelegates.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\multicastDelegates\multicastDelegates\bin\Debug\net8.0\multicastDelegates.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\multicastDelegates\multicastDelegates\obj\Debug\net8.0\multicastDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\multicastDelegates\multicastDelegates\obj\Debug\net8.0\multicastDelegates.AssemblyInfoInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\multicastDelegates\multicastDelegates\obj\Debug\net8.0\multicastDelegates.AssemblyInfo.cs
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\multicastDelegates\multicastDelegates\obj\Debug\net8.0\multicastDelegates.csproj.CoreCompileInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\multicastDelegates\multicastDelegates\obj\Debug\net8.0\multicastDelegates.sourcelink.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\multicastDelegates\multicastDelegates\obj\Debug\net8.0\multicastDelegates.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\multicastDelegates\multicastDelegates\obj\Debug\net8.0\refint\multicastDelegates.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\multicastDelegates\multicastDelegates\obj\Debug\net8.0\multicastDelegates.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\multicastDelegates\multicastDelegates\obj\Debug\net8.0\multicastDelegates.genruntimeconfig.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\multicastDelegates\multicastDelegates\obj\Debug\net8.0\ref\multicastDelegates.dll

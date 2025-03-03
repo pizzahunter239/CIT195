@@ -1,0 +1,15 @@
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\workingWithEvents\workingWithEvents\bin\Debug\net8.0\workingWithEvents.exe
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\workingWithEvents\workingWithEvents\bin\Debug\net8.0\workingWithEvents.deps.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\workingWithEvents\workingWithEvents\bin\Debug\net8.0\workingWithEvents.runtimeconfig.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\workingWithEvents\workingWithEvents\bin\Debug\net8.0\workingWithEvents.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\workingWithEvents\workingWithEvents\bin\Debug\net8.0\workingWithEvents.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\workingWithEvents\workingWithEvents\obj\Debug\net8.0\workingWithEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\workingWithEvents\workingWithEvents\obj\Debug\net8.0\workingWithEvents.AssemblyInfoInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\workingWithEvents\workingWithEvents\obj\Debug\net8.0\workingWithEvents.AssemblyInfo.cs
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\workingWithEvents\workingWithEvents\obj\Debug\net8.0\workingWithEvents.csproj.CoreCompileInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\workingWithEvents\workingWithEvents\obj\Debug\net8.0\workingWithEvents.sourcelink.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\workingWithEvents\workingWithEvents\obj\Debug\net8.0\workingWithEvents.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\workingWithEvents\workingWithEvents\obj\Debug\net8.0\refint\workingWithEvents.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\workingWithEvents\workingWithEvents\obj\Debug\net8.0\workingWithEvents.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\workingWithEvents\workingWithEvents\obj\Debug\net8.0\workingWithEvents.genruntimeconfig.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\workingWithEvents\workingWithEvents\obj\Debug\net8.0\ref\workingWithEvents.dll

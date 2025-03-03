@@ -1,0 +1,15 @@
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\workingWithDelegates\workingWithDelegates\bin\Debug\net8.0\workingWithDelegates.exe
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\workingWithDelegates\workingWithDelegates\bin\Debug\net8.0\workingWithDelegates.deps.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\workingWithDelegates\workingWithDelegates\bin\Debug\net8.0\workingWithDelegates.runtimeconfig.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\workingWithDelegates\workingWithDelegates\bin\Debug\net8.0\workingWithDelegates.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\workingWithDelegates\workingWithDelegates\bin\Debug\net8.0\workingWithDelegates.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\workingWithDelegates\workingWithDelegates\obj\Debug\net8.0\workingWithDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\workingWithDelegates\workingWithDelegates\obj\Debug\net8.0\workingWithDelegates.AssemblyInfoInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\workingWithDelegates\workingWithDelegates\obj\Debug\net8.0\workingWithDelegates.AssemblyInfo.cs
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\workingWithDelegates\workingWithDelegates\obj\Debug\net8.0\workingWithDelegates.csproj.CoreCompileInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\workingWithDelegates\workingWithDelegates\obj\Debug\net8.0\workingWithDelegates.sourcelink.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\workingWithDelegates\workingWithDelegates\obj\Debug\net8.0\workingWithDelegates.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\workingWithDelegates\workingWithDelegates\obj\Debug\net8.0\refint\workingWithDelegates.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\workingWithDelegates\workingWithDelegates\obj\Debug\net8.0\workingWithDelegates.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\workingWithDelegates\workingWithDelegates\obj\Debug\net8.0\workingWithDelegates.genruntimeconfig.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8\workingWithDelegates\workingWithDelegates\obj\Debug\net8.0\ref\workingWithDelegates.dll
