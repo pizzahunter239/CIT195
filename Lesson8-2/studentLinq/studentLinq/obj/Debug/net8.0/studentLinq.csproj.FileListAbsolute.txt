@@ -1,0 +1,15 @@
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8-2\studentLinq\studentLinq\obj\Debug\net8.0\studentLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8-2\studentLinq\studentLinq\obj\Debug\net8.0\studentLinq.AssemblyInfoInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8-2\studentLinq\studentLinq\obj\Debug\net8.0\studentLinq.AssemblyInfo.cs
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8-2\studentLinq\studentLinq\obj\Debug\net8.0\studentLinq.csproj.CoreCompileInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8-2\studentLinq\studentLinq\obj\Debug\net8.0\studentLinq.sourcelink.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8-2\studentLinq\studentLinq\bin\Debug\net8.0\studentLinq.exe
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8-2\studentLinq\studentLinq\bin\Debug\net8.0\studentLinq.deps.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8-2\studentLinq\studentLinq\bin\Debug\net8.0\studentLinq.runtimeconfig.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8-2\studentLinq\studentLinq\bin\Debug\net8.0\studentLinq.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8-2\studentLinq\studentLinq\bin\Debug\net8.0\studentLinq.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8-2\studentLinq\studentLinq\obj\Debug\net8.0\studentLinq.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8-2\studentLinq\studentLinq\obj\Debug\net8.0\refint\studentLinq.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8-2\studentLinq\studentLinq\obj\Debug\net8.0\studentLinq.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8-2\studentLinq\studentLinq\obj\Debug\net8.0\studentLinq.genruntimeconfig.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson8-2\studentLinq\studentLinq\obj\Debug\net8.0\ref\studentLinq.dll
