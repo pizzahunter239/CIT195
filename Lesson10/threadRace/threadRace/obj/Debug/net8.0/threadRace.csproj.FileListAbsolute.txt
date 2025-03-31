@@ -1,0 +1,15 @@
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\threadRace\threadRace\bin\Debug\net8.0\threadRace.exe
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\threadRace\threadRace\bin\Debug\net8.0\threadRace.deps.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\threadRace\threadRace\bin\Debug\net8.0\threadRace.runtimeconfig.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\threadRace\threadRace\bin\Debug\net8.0\threadRace.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\threadRace\threadRace\bin\Debug\net8.0\threadRace.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\threadRace\threadRace\obj\Debug\net8.0\threadRace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\threadRace\threadRace\obj\Debug\net8.0\threadRace.AssemblyInfoInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\threadRace\threadRace\obj\Debug\net8.0\threadRace.AssemblyInfo.cs
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\threadRace\threadRace\obj\Debug\net8.0\threadRace.csproj.CoreCompileInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\threadRace\threadRace\obj\Debug\net8.0\threadRace.sourcelink.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\threadRace\threadRace\obj\Debug\net8.0\threadRace.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\threadRace\threadRace\obj\Debug\net8.0\refint\threadRace.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\threadRace\threadRace\obj\Debug\net8.0\threadRace.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\threadRace\threadRace\obj\Debug\net8.0\threadRace.genruntimeconfig.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\threadRace\threadRace\obj\Debug\net8.0\ref\threadRace.dll

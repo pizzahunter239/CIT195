@@ -1,0 +1,15 @@
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\asyncAwait\asyncAwait\bin\Debug\net8.0\asyncAwait.exe
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\asyncAwait\asyncAwait\bin\Debug\net8.0\asyncAwait.deps.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\asyncAwait\asyncAwait\bin\Debug\net8.0\asyncAwait.runtimeconfig.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\asyncAwait\asyncAwait\bin\Debug\net8.0\asyncAwait.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\asyncAwait\asyncAwait\bin\Debug\net8.0\asyncAwait.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\asyncAwait\asyncAwait\obj\Debug\net8.0\asyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\asyncAwait\asyncAwait\obj\Debug\net8.0\asyncAwait.AssemblyInfoInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\asyncAwait\asyncAwait\obj\Debug\net8.0\asyncAwait.AssemblyInfo.cs
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\asyncAwait\asyncAwait\obj\Debug\net8.0\asyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\asyncAwait\asyncAwait\obj\Debug\net8.0\asyncAwait.sourcelink.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\asyncAwait\asyncAwait\obj\Debug\net8.0\asyncAwait.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\asyncAwait\asyncAwait\obj\Debug\net8.0\refint\asyncAwait.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\asyncAwait\asyncAwait\obj\Debug\net8.0\asyncAwait.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\asyncAwait\asyncAwait\obj\Debug\net8.0\asyncAwait.genruntimeconfig.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\asyncAwait\asyncAwait\obj\Debug\net8.0\ref\asyncAwait.dll

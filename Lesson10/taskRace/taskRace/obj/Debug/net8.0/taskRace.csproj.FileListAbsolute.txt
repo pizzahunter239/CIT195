@@ -1,0 +1,15 @@
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\taskRace\taskRace\bin\Debug\net8.0\taskRace.exe
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\taskRace\taskRace\bin\Debug\net8.0\taskRace.deps.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\taskRace\taskRace\bin\Debug\net8.0\taskRace.runtimeconfig.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\taskRace\taskRace\bin\Debug\net8.0\taskRace.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\taskRace\taskRace\bin\Debug\net8.0\taskRace.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\taskRace\taskRace\obj\Debug\net8.0\taskRace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\taskRace\taskRace\obj\Debug\net8.0\taskRace.AssemblyInfoInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\taskRace\taskRace\obj\Debug\net8.0\taskRace.AssemblyInfo.cs
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\taskRace\taskRace\obj\Debug\net8.0\taskRace.csproj.CoreCompileInputs.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\taskRace\taskRace\obj\Debug\net8.0\taskRace.sourcelink.json
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\taskRace\taskRace\obj\Debug\net8.0\taskRace.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\taskRace\taskRace\obj\Debug\net8.0\refint\taskRace.dll
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\taskRace\taskRace\obj\Debug\net8.0\taskRace.pdb
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\taskRace\taskRace\obj\Debug\net8.0\taskRace.genruntimeconfig.cache
+C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson10\taskRace\taskRace\obj\Debug\net8.0\ref\taskRace.dll
