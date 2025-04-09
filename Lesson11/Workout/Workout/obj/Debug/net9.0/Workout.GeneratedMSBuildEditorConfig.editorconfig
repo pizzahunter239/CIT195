@@ -1,0 +1,117 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Workout
+build_property.RootNamespace = Workout
+build_property.ProjectDir = C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson11\Workout\Workout\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\pizza\OneDrive\Desktop\CIT195\Lesson11\Workout\Workout
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/pizza/OneDrive/Desktop/CIT195/Lesson11/Workout/Workout/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pizza/OneDrive/Desktop/CIT195/Lesson11/Workout/Workout/Pages/Exercises/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhlcmNpc2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pizza/OneDrive/Desktop/CIT195/Lesson11/Workout/Workout/Pages/Exercises/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhlcmNpc2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pizza/OneDrive/Desktop/CIT195/Lesson11/Workout/Workout/Pages/Exercises/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhlcmNpc2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pizza/OneDrive/Desktop/CIT195/Lesson11/Workout/Workout/Pages/Exercises/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhlcmNpc2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pizza/OneDrive/Desktop/CIT195/Lesson11/Workout/Workout/Pages/Exercises/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXhlcmNpc2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pizza/OneDrive/Desktop/CIT195/Lesson11/Workout/Workout/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pizza/OneDrive/Desktop/CIT195/Lesson11/Workout/Workout/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pizza/OneDrive/Desktop/CIT195/Lesson11/Workout/Workout/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pizza/OneDrive/Desktop/CIT195/Lesson11/Workout/Workout/Pages/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pizza/OneDrive/Desktop/CIT195/Lesson11/Workout/Workout/Pages/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pizza/OneDrive/Desktop/CIT195/Lesson11/Workout/Workout/Pages/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pizza/OneDrive/Desktop/CIT195/Lesson11/Workout/Workout/Pages/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pizza/OneDrive/Desktop/CIT195/Lesson11/Workout/Workout/Pages/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pizza/OneDrive/Desktop/CIT195/Lesson11/Workout/Workout/Pages/WorkoutLogs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV29ya291dExvZ3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pizza/OneDrive/Desktop/CIT195/Lesson11/Workout/Workout/Pages/WorkoutLogs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV29ya291dExvZ3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pizza/OneDrive/Desktop/CIT195/Lesson11/Workout/Workout/Pages/WorkoutLogs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV29ya291dExvZ3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pizza/OneDrive/Desktop/CIT195/Lesson11/Workout/Workout/Pages/WorkoutLogs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV29ya291dExvZ3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pizza/OneDrive/Desktop/CIT195/Lesson11/Workout/Workout/Pages/WorkoutLogs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV29ya291dExvZ3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pizza/OneDrive/Desktop/CIT195/Lesson11/Workout/Workout/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pizza/OneDrive/Desktop/CIT195/Lesson11/Workout/Workout/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/pizza/OneDrive/Desktop/CIT195/Lesson11/Workout/Workout/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-cbzfgz517y

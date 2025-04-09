@@ -1,0 +1,700 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\pages\\workoutlogs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\pages\\workoutlogs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\pages\\exercises\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\pages\\exercises\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\pages\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\pages\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\pages\\workoutlogs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\pages\\workoutlogs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\pages\\exercises\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\pages\\exercises\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\pages\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\pages\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\pages\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\pages\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\pages\\workoutlogs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\pages\\workoutlogs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\pages\\workoutlogs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\pages\\workoutlogs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\pages\\workoutlogs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\pages\\workoutlogs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\pages\\exercises\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\pages\\exercises\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\pages\\exercises\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\pages\\exercises\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\pages\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\pages\\users\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\pages\\exercises\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\pages\\exercises\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\pages\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\pages\\users\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\pages\\exercises\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\pages\\exercises\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\pages\\exercises\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\pages\\exercises\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\pages\\workoutlogs\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\pages\\workoutlogs\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Migrations\\20250409012016_initialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Workout\\Migrations\\20250409012016_initialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\data\\workoutcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\data\\workoutcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\pages\\workoutlogs\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\pages\\workoutlogs\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\pages\\workoutlogs\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\pages\\workoutlogs\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\pages\\workoutlogs\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\pages\\workoutlogs\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\pages\\workoutlogs\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\pages\\workoutlogs\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\pages\\users\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\pages\\users\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\pages\\users\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\pages\\users\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\pages\\users\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\pages\\users\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\pages\\users\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\pages\\users\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\pages\\users\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\pages\\users\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\pages\\exercises\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\pages\\exercises\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\pages\\exercises\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\pages\\exercises\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\pages\\exercises\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\pages\\exercises\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\model\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\model\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson11\\workout\\workout\\model\\workoutlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37682E28-F089-47AA-88C9-C13A82BFAC8F}|Workout\\Workout.csproj|solutionrelative:workout\\model\\workoutlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Workout\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Workout\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T02:19:49.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Workout\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Workout\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T02:18:01.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Workout\\Pages\\Users\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Users\\Edit.cshtml",
+              "RelativeToolTip": "Workout\\Pages\\Users\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T00:42:32.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Workout\\Pages\\Users\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Users\\Delete.cshtml",
+              "RelativeToolTip": "Workout\\Pages\\Users\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T00:42:33.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Exercises\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Workout\\Pages\\Exercises\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Exercises\\Delete.cshtml",
+              "RelativeToolTip": "Workout\\Pages\\Exercises\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T00:41:53.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\WorkoutLogs\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Workout\\Pages\\WorkoutLogs\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\WorkoutLogs\\Delete.cshtml",
+              "RelativeToolTip": "Workout\\Pages\\WorkoutLogs\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T00:43:07.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "Workout\\Pages\\Users\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Users\\Index.cshtml",
+              "RelativeToolTip": "Workout\\Pages\\Users\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T00:42:33.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Exercises\\Index.cshtml",
+              "RelativeDocumentMoniker": "Workout\\Pages\\Exercises\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Exercises\\Index.cshtml",
+              "RelativeToolTip": "Workout\\Pages\\Exercises\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T00:41:53.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\WorkoutLogs\\Index.cshtml",
+              "RelativeDocumentMoniker": "Workout\\Pages\\WorkoutLogs\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\WorkoutLogs\\Index.cshtml",
+              "RelativeToolTip": "Workout\\Pages\\WorkoutLogs\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T00:43:07.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\WorkoutLogs\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Workout\\Pages\\WorkoutLogs\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\WorkoutLogs\\Edit.cshtml",
+              "RelativeToolTip": "Workout\\Pages\\WorkoutLogs\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T00:43:06.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\WorkoutLogs\\Create.cshtml",
+              "RelativeDocumentMoniker": "Workout\\Pages\\WorkoutLogs\\Create.cshtml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\WorkoutLogs\\Create.cshtml",
+              "RelativeToolTip": "Workout\\Pages\\WorkoutLogs\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T00:43:06.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\WorkoutLogs\\Details.cshtml",
+              "RelativeDocumentMoniker": "Workout\\Pages\\WorkoutLogs\\Details.cshtml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\WorkoutLogs\\Details.cshtml",
+              "RelativeToolTip": "Workout\\Pages\\WorkoutLogs\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T00:43:07.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Exercises\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Workout\\Pages\\Exercises\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Exercises\\Edit.cshtml",
+              "RelativeToolTip": "Workout\\Pages\\Exercises\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T00:41:53.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Exercises\\Create.cshtml",
+              "RelativeDocumentMoniker": "Workout\\Pages\\Exercises\\Create.cshtml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Exercises\\Create.cshtml",
+              "RelativeToolTip": "Workout\\Pages\\Exercises\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T00:41:53.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Users\\Create.cshtml",
+              "RelativeDocumentMoniker": "Workout\\Pages\\Users\\Create.cshtml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Users\\Create.cshtml",
+              "RelativeToolTip": "Workout\\Pages\\Users\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T00:42:32.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Exercises\\Details.cshtml",
+              "RelativeDocumentMoniker": "Workout\\Pages\\Exercises\\Details.cshtml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Exercises\\Details.cshtml",
+              "RelativeToolTip": "Workout\\Pages\\Exercises\\Details.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAEIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T00:41:53.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Users\\Details.cshtml",
+              "RelativeDocumentMoniker": "Workout\\Pages\\Users\\Details.cshtml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Users\\Details.cshtml",
+              "RelativeToolTip": "Workout\\Pages\\Users\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T00:42:32.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Workout\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Workout\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-09T01:43:33.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Workout\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Workout\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-09T01:56:06.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Exercises\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Workout\\Pages\\Exercises\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Exercises\\Edit.cshtml.cs",
+              "RelativeToolTip": "Workout\\Pages\\Exercises\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:41:53.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Exercises\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Workout\\Pages\\Exercises\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Exercises\\Create.cshtml.cs",
+              "RelativeToolTip": "Workout\\Pages\\Exercises\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:41:53.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\WorkoutLogs\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Workout\\Pages\\WorkoutLogs\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\WorkoutLogs\\Delete.cshtml.cs",
+              "RelativeToolTip": "Workout\\Pages\\WorkoutLogs\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:43:07.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\WorkoutLogs\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Workout\\Pages\\WorkoutLogs\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\WorkoutLogs\\Index.cshtml.cs",
+              "RelativeToolTip": "Workout\\Pages\\WorkoutLogs\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:43:07.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250409012016_initialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Migrations\\20250409012016_initialCreate.cs",
+              "RelativeDocumentMoniker": "Workout\\Migrations\\20250409012016_initialCreate.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Migrations\\20250409012016_initialCreate.cs",
+              "RelativeToolTip": "Workout\\Migrations\\20250409012016_initialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T01:20:17.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WorkoutContext.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Data\\WorkoutContext.cs",
+              "RelativeDocumentMoniker": "Workout\\Data\\WorkoutContext.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Data\\WorkoutContext.cs",
+              "RelativeToolTip": "Workout\\Data\\WorkoutContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:41:52.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Program.cs",
+              "RelativeDocumentMoniker": "Workout\\Program.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Program.cs",
+              "RelativeToolTip": "Workout\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:41:52.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\WorkoutLogs\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Workout\\Pages\\WorkoutLogs\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\WorkoutLogs\\Details.cshtml.cs",
+              "RelativeToolTip": "Workout\\Pages\\WorkoutLogs\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:43:07.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\WorkoutLogs\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Workout\\Pages\\WorkoutLogs\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\WorkoutLogs\\Edit.cshtml.cs",
+              "RelativeToolTip": "Workout\\Pages\\WorkoutLogs\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:43:06.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\WorkoutLogs\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Workout\\Pages\\WorkoutLogs\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\WorkoutLogs\\Create.cshtml.cs",
+              "RelativeToolTip": "Workout\\Pages\\WorkoutLogs\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:43:06.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Users\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Workout\\Pages\\Users\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Users\\Index.cshtml.cs",
+              "RelativeToolTip": "Workout\\Pages\\Users\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:42:33.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Users\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Workout\\Pages\\Users\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Users\\Delete.cshtml.cs",
+              "RelativeToolTip": "Workout\\Pages\\Users\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:42:33.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Users\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Workout\\Pages\\Users\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Users\\Details.cshtml.cs",
+              "RelativeToolTip": "Workout\\Pages\\Users\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:42:32.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Users\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Workout\\Pages\\Users\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Users\\Edit.cshtml.cs",
+              "RelativeToolTip": "Workout\\Pages\\Users\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:42:32.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Users\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Workout\\Pages\\Users\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Users\\Create.cshtml.cs",
+              "RelativeToolTip": "Workout\\Pages\\Users\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:42:32.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Exercises\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Workout\\Pages\\Exercises\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Exercises\\Index.cshtml.cs",
+              "RelativeToolTip": "Workout\\Pages\\Exercises\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:41:53.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Exercises\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Workout\\Pages\\Exercises\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Exercises\\Delete.cshtml.cs",
+              "RelativeToolTip": "Workout\\Pages\\Exercises\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:41:53.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Exercises\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Workout\\Pages\\Exercises\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Pages\\Exercises\\Details.cshtml.cs",
+              "RelativeToolTip": "Workout\\Pages\\Exercises\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:41:53.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "WorkoutLog.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Model\\WorkoutLog.cs",
+              "RelativeDocumentMoniker": "Workout\\Model\\WorkoutLog.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Model\\WorkoutLog.cs",
+              "RelativeToolTip": "Workout\\Model\\WorkoutLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:14:27.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Exercise.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Model\\Exercise.cs",
+              "RelativeDocumentMoniker": "Workout\\Model\\Exercise.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Model\\Exercise.cs",
+              "RelativeToolTip": "Workout\\Model\\Exercise.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:14:15.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Workout\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson11\\Workout\\Workout\\Model\\User.cs",
+              "RelativeToolTip": "Workout\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:11:01.576Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
