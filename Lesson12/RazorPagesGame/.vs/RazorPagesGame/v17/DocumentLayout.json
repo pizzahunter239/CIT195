@@ -1,0 +1,547 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson12\\razorpagesgame\\razorpagesgame\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|solutionrelative:razorpagesgame\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson12\\razorpagesgame\\razorpagesgame\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|solutionrelative:razorpagesgame\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson12\\razorpagesgame\\razorpagesgame\\pages\\studios\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|solutionrelative:razorpagesgame\\pages\\studios\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson12\\razorpagesgame\\razorpagesgame\\pages\\studios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|solutionrelative:razorpagesgame\\pages\\studios\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson12\\razorpagesgame\\razorpagesgame\\pages\\games\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|solutionrelative:razorpagesgame\\pages\\games\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson12\\razorpagesgame\\razorpagesgame\\pages\\studios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|solutionrelative:razorpagesgame\\pages\\studios\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson12\\razorpagesgame\\razorpagesgame\\pages\\studios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|solutionrelative:razorpagesgame\\pages\\studios\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson12\\razorpagesgame\\razorpagesgame\\pages\\games\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|solutionrelative:razorpagesgame\\pages\\games\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson12\\razorpagesgame\\razorpagesgame\\pages\\games\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|solutionrelative:razorpagesgame\\pages\\games\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson12\\razorpagesgame\\razorpagesgame\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|solutionrelative:razorpagesgame\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson12\\razorpagesgame\\razorpagesgame\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|solutionrelative:razorpagesgame\\wwwroot\\css\\custom.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Migrations\\20250417203242_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RazorPagesGame\\Migrations\\20250417203242_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson12\\razorpagesgame\\razorpagesgame\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|solutionrelative:razorpagesgame\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson12\\razorpagesgame\\razorpagesgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|solutionrelative:razorpagesgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson12\\razorpagesgame\\razorpagesgame\\pages\\studios\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|solutionrelative:razorpagesgame\\pages\\studios\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson12\\razorpagesgame\\razorpagesgame\\pages\\studios\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|solutionrelative:razorpagesgame\\pages\\studios\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson12\\razorpagesgame\\razorpagesgame\\pages\\games\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|solutionrelative:razorpagesgame\\pages\\games\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson12\\razorpagesgame\\razorpagesgame\\pages\\games\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|solutionrelative:razorpagesgame\\pages\\games\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson12\\razorpagesgame\\razorpagesgame\\models\\studio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|solutionrelative:razorpagesgame\\models\\studio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson12\\razorpagesgame\\razorpagesgame\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|solutionrelative:razorpagesgame\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson12\\razorpagesgame\\razorpagesgame\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|solutionrelative:razorpagesgame\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson12\\razorpagesgame\\razorpagesgame\\pages\\studios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|solutionrelative:razorpagesgame\\pages\\studios\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson12\\razorpagesgame\\razorpagesgame\\pages\\studios\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|solutionrelative:razorpagesgame\\pages\\studios\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson12\\razorpagesgame\\razorpagesgame\\pages\\studios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|solutionrelative:razorpagesgame\\pages\\studios\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson12\\razorpagesgame\\razorpagesgame\\pages\\studios\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|solutionrelative:razorpagesgame\\pages\\studios\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson12\\razorpagesgame\\razorpagesgame\\data\\razorpagesgamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|solutionrelative:razorpagesgame\\data\\razorpagesgamecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson12\\razorpagesgame\\razorpagesgame\\pages\\games\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|solutionrelative:razorpagesgame\\pages\\games\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson12\\razorpagesgame\\razorpagesgame\\pages\\games\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|solutionrelative:razorpagesgame\\pages\\games\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson12\\razorpagesgame\\razorpagesgame\\pages\\games\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|solutionrelative:razorpagesgame\\pages\\games\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson12\\razorpagesgame\\razorpagesgame\\pages\\games\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|solutionrelative:razorpagesgame\\pages\\games\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|c:\\users\\pizza\\onedrive\\desktop\\cit195\\lesson12\\razorpagesgame\\razorpagesgame\\pages\\games\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26E6F3C9-A930-4423-9BC1-822AC334CF71}|RazorPagesGame\\RazorPagesGame.csproj|solutionrelative:razorpagesgame\\pages\\games\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "RazorPagesGame\\Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "RazorPagesGame\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T22:19:53.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250417203242_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Migrations\\20250417203242_InitialCreate.cs",
+              "RelativeDocumentMoniker": "RazorPagesGame\\Migrations\\20250417203242_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Migrations\\20250417203242_InitialCreate.cs",
+              "RelativeToolTip": "RazorPagesGame\\Migrations\\20250417203242_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T20:32:42.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RazorPagesGame\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RazorPagesGame\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T20:32:12.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Studios\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RazorPagesGame\\Pages\\Studios\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Studios\\Delete.cshtml",
+              "RelativeToolTip": "RazorPagesGame\\Pages\\Studios\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T20:29:46.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Studios\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPagesGame\\Pages\\Studios\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Studios\\Details.cshtml.cs",
+              "RelativeToolTip": "RazorPagesGame\\Pages\\Studios\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T20:29:46.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Studios\\Details.cshtml",
+              "RelativeDocumentMoniker": "RazorPagesGame\\Pages\\Studios\\Details.cshtml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Studios\\Details.cshtml",
+              "RelativeToolTip": "RazorPagesGame\\Pages\\Studios\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T20:29:46.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Studios\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPagesGame\\Pages\\Studios\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Studios\\Edit.cshtml.cs",
+              "RelativeToolTip": "RazorPagesGame\\Pages\\Studios\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T20:29:46.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Studios\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPagesGame\\Pages\\Studios\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Studios\\Create.cshtml.cs",
+              "RelativeToolTip": "RazorPagesGame\\Pages\\Studios\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T20:29:46.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Studios\\Create.cshtml",
+              "RelativeDocumentMoniker": "RazorPagesGame\\Pages\\Studios\\Create.cshtml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Studios\\Create.cshtml",
+              "RelativeToolTip": "RazorPagesGame\\Pages\\Studios\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T20:29:46.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Games\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPagesGame\\Pages\\Games\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Games\\Index.cshtml.cs",
+              "RelativeToolTip": "RazorPagesGame\\Pages\\Games\\Index.cshtml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T20:29:13.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Games\\Create.cshtml",
+              "RelativeDocumentMoniker": "RazorPagesGame\\Pages\\Games\\Create.cshtml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Games\\Create.cshtml",
+              "RelativeToolTip": "RazorPagesGame\\Pages\\Games\\Create.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T20:29:12.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Games\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RazorPagesGame\\Pages\\Games\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Games\\Edit.cshtml",
+              "RelativeToolTip": "RazorPagesGame\\Pages\\Games\\Edit.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACAAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T20:29:12.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Studios\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RazorPagesGame\\Pages\\Studios\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Studios\\Edit.cshtml",
+              "RelativeToolTip": "RazorPagesGame\\Pages\\Studios\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T20:29:46.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Games\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorPagesGame\\Pages\\Games\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Games\\Index.cshtml",
+              "RelativeToolTip": "RazorPagesGame\\Pages\\Games\\Index.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAwDoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T20:29:12.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Studios\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorPagesGame\\Pages\\Studios\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Studios\\Index.cshtml",
+              "RelativeToolTip": "RazorPagesGame\\Pages\\Studios\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T20:29:46.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Studios\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPagesGame\\Pages\\Studios\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Studios\\Delete.cshtml.cs",
+              "RelativeToolTip": "RazorPagesGame\\Pages\\Studios\\Delete.cshtml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwDcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T20:29:46.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorPagesGame\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Index.cshtml",
+              "RelativeToolTip": "RazorPagesGame\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T20:42:12.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "custom.css",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\wwwroot\\css\\custom.css",
+              "RelativeDocumentMoniker": "RazorPagesGame\\wwwroot\\css\\custom.css",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\wwwroot\\css\\custom.css",
+              "RelativeToolTip": "RazorPagesGame\\wwwroot\\css\\custom.css",
+              "ViewState": "AgIAACUAAAAAAAAAAAAswDAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-17T20:41:42.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Studios\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPagesGame\\Pages\\Studios\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Studios\\Index.cshtml.cs",
+              "RelativeToolTip": "RazorPagesGame\\Pages\\Studios\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T20:29:46.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "RazorPagesGame\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Data\\SeedData.cs",
+              "RelativeToolTip": "RazorPagesGame\\Data\\SeedData.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAIwFcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T20:29:57.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\appsettings.json",
+              "RelativeDocumentMoniker": "RazorPagesGame\\appsettings.json",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\appsettings.json",
+              "RelativeToolTip": "RazorPagesGame\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-17T20:32:21.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "RazorPagesGame\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Models\\Game.cs",
+              "RelativeToolTip": "RazorPagesGame\\Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T20:28:08.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Studio.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Models\\Studio.cs",
+              "RelativeDocumentMoniker": "RazorPagesGame\\Models\\Studio.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Models\\Studio.cs",
+              "RelativeToolTip": "RazorPagesGame\\Models\\Studio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T20:28:23.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Games\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPagesGame\\Pages\\Games\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Games\\Create.cshtml.cs",
+              "RelativeToolTip": "RazorPagesGame\\Pages\\Games\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T20:29:12.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Program.cs",
+              "RelativeDocumentMoniker": "RazorPagesGame\\Program.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Program.cs",
+              "RelativeToolTip": "RazorPagesGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T20:29:12.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Games\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPagesGame\\Pages\\Games\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Games\\Delete.cshtml.cs",
+              "RelativeToolTip": "RazorPagesGame\\Pages\\Games\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T20:29:12.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Games\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RazorPagesGame\\Pages\\Games\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Games\\Delete.cshtml",
+              "RelativeToolTip": "RazorPagesGame\\Pages\\Games\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T20:29:12.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Games\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPagesGame\\Pages\\Games\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Games\\Details.cshtml.cs",
+              "RelativeToolTip": "RazorPagesGame\\Pages\\Games\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T20:29:12.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Games\\Details.cshtml",
+              "RelativeDocumentMoniker": "RazorPagesGame\\Pages\\Games\\Details.cshtml",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Games\\Details.cshtml",
+              "RelativeToolTip": "RazorPagesGame\\Pages\\Games\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-17T20:29:12.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Games\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPagesGame\\Pages\\Games\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Pages\\Games\\Edit.cshtml.cs",
+              "RelativeToolTip": "RazorPagesGame\\Pages\\Games\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T20:29:12.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RazorPagesGameContext.cs",
+              "DocumentMoniker": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Data\\RazorPagesGameContext.cs",
+              "RelativeDocumentMoniker": "RazorPagesGame\\Data\\RazorPagesGameContext.cs",
+              "ToolTip": "C:\\Users\\pizza\\OneDrive\\Desktop\\CIT195\\Lesson12\\RazorPagesGame\\RazorPagesGame\\Data\\RazorPagesGameContext.cs",
+              "RelativeToolTip": "RazorPagesGame\\Data\\RazorPagesGameContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T20:29:12.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

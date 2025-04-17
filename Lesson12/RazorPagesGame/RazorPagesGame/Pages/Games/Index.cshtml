@@ -1,0 +1,84 @@
+﻿@page
+@model RazorPagesGame.Pages.Games.IndexModel
+
+@{
+    ViewData["Title"] = "Games";
+}
+
+<h1>Games Library</h1>
+
+<p>
+    <a asp-page="Create" class="btn custom-btn mb-3">Create New Game</a>
+</p>
+
+<form>
+    <div class="row mb-4">
+        <div class="col-md-4">
+            <select asp-for="GameGenre" asp-items="Model.Genres" class="form-control">
+                <option value="">All Genres</option>
+            </select>
+        </div>
+        <div class="col-md-4">
+            <input type="text" asp-for="SearchString" class="form-control" placeholder="Search by title..." />
+        </div>
+        <div class="col-md-4">
+            <input type="submit" value="Filter" class="btn custom-btn" />
+        </div>
+    </div>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Game[0].Title)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Game[0].ReleaseDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Game[0].Genre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Game[0].Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Game[0].Rating)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Game[0].Studio)
+            </th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Game)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Title)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ReleaseDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Genre)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Rating)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Studio.Name)
+                </td>
+                <td>
+                    <a asp-page="./Edit" asp-route-id="@item.ID" class="btn btn-sm btn-outline-primary">Edit</a>
+                    <a asp-page="./Details" asp-route-id="@item.ID" class="btn btn-sm btn-outline-info">Details</a>
+                    <a asp-page="./Delete" asp-route-id="@item.ID" class="btn btn-sm btn-outline-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

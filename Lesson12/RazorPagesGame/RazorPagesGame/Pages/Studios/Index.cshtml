@@ -1,0 +1,56 @@
+﻿@page
+@model RazorPagesGame.Pages.Studios.IndexModel
+
+@{
+    ViewData["Title"] = "Studios";
+}
+
+<h1>Game Studios</h1>
+
+<p>
+    <a asp-page="Create" class="btn custom-btn mb-3">Create New Studio</a>
+</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Studio[0].Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Studio[0].FoundedDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Studio[0].Headquarters)
+            </th>
+            <th>
+                Games Count
+            </th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Studio)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FoundedDate)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Headquarters)
+                </td>
+                <td>
+                    @item.Games.Count
+                </td>
+                <td>
+                    <a asp-page="./Edit" asp-route-id="@item.ID" class="btn btn-sm btn-outline-primary">Edit</a>
+                    <a asp-page="./Details" asp-route-id="@item.ID" class="btn btn-sm btn-outline-info">Details</a>
+                    <a asp-page="./Delete" asp-route-id="@item.ID" class="btn btn-sm btn-outline-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

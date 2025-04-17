@@ -1,0 +1,59 @@
+﻿@page
+@model RazorPagesGame.Pages.Games.EditModel
+
+@{
+    ViewData["Title"] = "Edit Game";
+}
+
+<h1>Edit Game</h1>
+
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Game.ID" />
+            <div class="form-group mb-3">
+                <label asp-for="Game.Title" class="control-label"></label>
+                <input asp-for="Game.Title" class="form-control" />
+                <span asp-validation-for="Game.Title" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="Game.ReleaseDate" class="control-label"></label>
+                <input asp-for="Game.ReleaseDate" class="form-control" />
+                <span asp-validation-for="Game.ReleaseDate" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="Game.Genre" class="control-label"></label>
+                <input asp-for="Game.Genre" class="form-control" />
+                <span asp-validation-for="Game.Genre" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="Game.Price" class="control-label"></label>
+                <input asp-for="Game.Price" class="form-control" />
+                <span asp-validation-for="Game.Price" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="Game.Rating" class="control-label"></label>
+                <input asp-for="Game.Rating" class="form-control" />
+                <span asp-validation-for="Game.Rating" class="text-danger"></span>
+            </div>
+            <div class="form-group mb-3">
+                <label asp-for="Game.StudioID" class="control-label">Studio</label>
+                <select asp-for="Game.StudioID" class="form-control" asp-items="ViewBag.StudioID"></select>
+            </div>
+            <div class="form-group mb-3">
+                <input type="submit" value="Save" class="btn custom-btn" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

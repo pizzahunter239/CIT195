@@ -1,0 +1,33 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to Game Library</h1>
+    <p>Discover and explore your favorite video games and the studios that create them.</p>
+
+    <div class="home-featured">
+        <img src="~/images/featured-games.png" alt="Featured Games" class="img-fluid" />
+        <h3 class="mt-4">Featured Games of the Month</h3>
+        <p>Check out our carefully curated selection of the best games available in our library.</p>
+    </div>
+
+    <div class="row mt-5">
+        <div class="col-md-6">
+            <div class="game-card">
+                <h3>Browse Games</h3>
+                <p>Search through our extensive collection of games from all genres and platforms.</p>
+                <a class="btn custom-btn" asp-page="/Games/Index">View Games</a>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="game-card">
+                <h3>Explore Studios</h3>
+                <p>Learn about the creative minds behind your favorite games.</p>
+                <a class="btn custom-btn" asp-page="/Studios/Index">View Studios</a>
+            </div>
+        </div>
+    </div>
+</div>
